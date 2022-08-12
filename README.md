@@ -1,4 +1,4 @@
-# ftf-frontapp
+FTF front-end app
 
 ##Tools: 
 
